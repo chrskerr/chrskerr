@@ -7,3 +7,6 @@ My current professional focus is on React and Node, working in a now all-remote 
 I have experience with React, Node, Graphql, Postgresql, Stripe, Threejs, amongst many other toolkits.
 
 Previously, I have worked in technical sales and relationship management roles, which helps me to understand development goals from both internal stakeholder and external customer perspectives. This is invaluable to me for appropriate internal communication, and helping me to guide development for best outcomes.
+
+#### I'm currently working on:
+- A community drive snorkelling, freediving & scuba divesite sharing site. The concept being that people can search and add their favourite locations, and help members of the community find interesting places to dive, especially while away from home. I'm trying right now to add augmented reality to the site so that they can see how the dive site fits around them.
