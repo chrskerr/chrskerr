@@ -2,20 +2,18 @@
 
 I am a javascript software developer with about 1.5 years of coding experience and over 10 years experience in general IT and business settings.
 
-My current professional focus is on React and Node, working on a number of concurrent freelance contracts. 
+My current professional focus is on React & Next.js, working on a number of concurrent freelance contracts. 
 
 I know how to: 
 - React
 - Next.js
 - Svelte & SvelteKit (beta)
 - Node
-- Graphql
-- Postgres
-- Stripe & Shopify APIs
+- Graphql & REST
+- PostgresQL / SQL
+- Stripe
 - Three.js
-- Material-UI
-
-Previously, I have worked in technical sales and relationship management roles, which helps me to understand development goals from both internal stakeholder and external customer perspectives. This is invaluable to me for appropriate internal communication, and helping me to guide development for best outcomes.
+- Plus a heap of other stuff
 
 #### Outside of work I'm currently:
 - Building the beta of a community driven snorkelling, freediving & scuba dive site sharing page. The concept being that people can search and add their favourite locations, and help members of the community find interesting places to dive, especially while away from home. I'm trying right now to add augmented reality to the site so that they can see how the dive site fits around them. This is being built on React with Leaf & Three driving the mapping and beginnings of AR.
