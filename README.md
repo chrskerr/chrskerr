@@ -1,6 +1,6 @@
 ### Chris Kerr 👋
 
-I am a javascript software developer with about 1.5 years of coding experience and over 10 years experience in general IT and business settings.
+I am a javascript software developer with a few years of coding experience and over 10 years experience in general IT and business settings.
 
 My current professional focus is on React & Next.js, working on a number of concurrent freelance contracts. 
 
