@@ -2,7 +2,7 @@
 
 I am a javascript software developer with a few years of coding experience and over 10 years experience in general IT and business settings.
 
-My current professional focus is on React & Next.js, working as a Software Engineer at Functionly. 
+My current professional focus is on Svelte & Sapper (SvelteKit incoming!), working as a Software Engineer at Functionly. 
 
 I know how to: 
 - React
