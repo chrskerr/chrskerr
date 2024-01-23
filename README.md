@@ -1,8 +1,8 @@
 ### Hey I’m Chris 👋
 
-I've been a software engineer for four years professionally, plus over a decade of professional business experience, including a number of years in technical sales roles.
+I've been a software engineer for four years professionally, plus over a decade of other business experience, including a number of years in technical sales roles.
 
-I am confident with both the technical and business aspects of engineering. In my roles I have been responsible for code architecture, feature planning, driving the development of large features, and coaching junior developers. My business experience allows me to communicate with the broader team and allows me to take a more senior approach to my engineering.
+In my roles I have been responsible for code architecture, stakeholder communications, feature planning, driving the development of large features, and coaching junior developers. My business experience allows me to communicate effectively with non-technical stakeholders and with other engineers.
 
 I know how to: 
 - React
